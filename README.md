@@ -1,3 +1,5 @@
+Por Vladimir Oliveira Lima - Analista de Processos de Negócios 
+
 # Trade-Financial-Market
 
 Este é um projeto de exemplo focado em **trading** para mercados financeiros, contemplando:
